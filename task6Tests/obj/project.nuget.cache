@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjQNrpSFSR8ig4457zv9oKVPy71tI0htdKkavaofJFQYIUxaU9UGm8WACEyB/UIJJ3WAoElK4Fy8gG54Aid/pg==",
+  "dgSpecHash": "Dk6OTFQMdUrEwYWE6K4CKkfUIM81hWFYd3zDKNYseFZBOB4PhZLEN+bEKmkVnHMHfg/ffepv/r1qDGnHmA8jrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\task6Tests.csproj",
+  "projectFilePath": "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\task6Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lew\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Lew\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

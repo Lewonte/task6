@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\task6Tests.csproj": {}
+    "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\task6Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\task6Tests.csproj": {
+    "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\task6Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\task6Tests.csproj",
+        "projectUniqueName": "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\task6Tests.csproj",
         "projectName": "task6Tests",
-        "projectPath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\task6Tests.csproj",
+        "projectPath": "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\task6Tests.csproj",
         "packagesPath": "C:\\Users\\Lew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\task6Tests\\obj\\",
+        "outputPath": "C:\\Codes\\oop\\opp hw\\task6\\task6Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\Task6.csproj": {
-                "projectPath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\Task6.csproj"
+              "C:\\Codes\\oop\\opp hw\\task6\\Task6\\Task6.csproj": {
+                "projectPath": "C:\\Codes\\oop\\opp hw\\task6\\Task6\\Task6.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\Task6.csproj": {
+    "C:\\Codes\\oop\\opp hw\\task6\\Task6\\Task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\Task6.csproj",
+        "projectUniqueName": "C:\\Codes\\oop\\opp hw\\task6\\Task6\\Task6.csproj",
         "projectName": "Task6",
-        "projectPath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\Task6.csproj",
+        "projectPath": "C:\\Codes\\oop\\opp hw\\task6\\Task6\\Task6.csproj",
         "packagesPath": "C:\\Users\\Lew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lew\\OneDrive\\Masaüstü2\\oop hw\\Task6\\obj\\",
+        "outputPath": "C:\\Codes\\oop\\opp hw\\task6\\Task6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
