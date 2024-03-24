@@ -1,0 +1,6 @@
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_task6Tests
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\obj\Debug\net8.0\task6Tests.csproj.AssemblyReference.cache
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\obj\Debug\net8.0\task6Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\obj\Debug\net8.0\task6Tests.AssemblyInfoInputs.cache
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\obj\Debug\net8.0\task6Tests.AssemblyInfo.cs
+C:\Users\Lew\OneDrive\Masaüstü2\oop hw\task6Tests\obj\Debug\net8.0\task6Tests.csproj.CoreCompileInputs.cache
